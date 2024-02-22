@@ -1,52 +1,33 @@
-# Hello, I'm Yash Thakare 
+<h1 align="center">Hi 👋, I'm Yash Thakare</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-I'm currently pursuing a Bachelor's in Computer Engineering at PES Modern College of Engineering, Pune.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashthakare93&label=Profile%20views&color=0e75b6&style=flat" alt="yashthakare93" /> </p>
 
-## About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashthakare93" alt="yashthakare93" /></a> </p>
 
-- 🌱 I'm passionate about computer science and software development.
-- 📚 I'm currently learning and working on various programming languages and technologies.
-- 💡 I love solving challenging problems and building cool projects.
-- 🎯 My goal is to continuously improve my skills and contribute to open source projects.
+- 🔭 I’m currently working on [URL-Shortner](https://github.com/yashthakare93/URL-SHORTNER)
 
-## Projects
+- 🌱 I’m currently learning **MEAN STACK**
 
-Here are some of the projects I've worked on:
+- 👨‍💻 All of my projects are available at [--](--)
 
-- 1.Netflix-clone [flix-mirror]
-  
-This project is a clone of the Netflix India website. It replicates the Netflix homepage, including the navigation bar, hero section, and sections showcasing different features of the streaming service.
+- 📝 I regularly write articles on [--](--)
 
-## Features
+- 💬 Ask me about **MONGO,ANGULAR,EXPRESS,NODE JS,TS,JAVA**
 
-- Responsive Design: The website is designed to be responsive and adapt to various screen sizes, making it accessible on different devices.
+- 📫 How to reach me **thakareyash74@gmail.com**
 
-- Dynamic Content: The hero section displays a welcoming message, and users can select their preferred language from a dropdown menu.
+- 📄 Know about my experiences [--](--)
 
-- Video Playback: The website includes video playback functionality to showcase promotional videos.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yashthakare01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashthakare01" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/thakareyash74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thakareyash74" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yashthakare_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashthakare_dev" height="30" width="40" /></a>
+</p>
 
-- FAQ Section: A frequently asked questions section provides information about Netflix and its services.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-- Footer: The footer contains important links, contact information, and language selection options.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashthakare93&show_icons=true&locale=en" alt="yashthakare93" /></p>
 
-## Technologies Used
-
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-
-Feel free to explore the code and the project to see how Netflix's homepage is recreated in this project!
-
-You can explore more of my projects on my [GitHub profile](https://github.com/yashthakare98).
-
-## Contact
-
-Feel free to connect with me on LinkedIn or reach out via email:
-
-- LinkedIn: [Yash Thakare](https://www.linkedin.com/in/yash-thakare01/)
-- Email: thakareyash74@gmail.com
-
-## Let's Collaborate
-
-I'm always open to collaborating on interesting projects and learning from others. If you have an exciting project or idea, feel free to reach out. Let's code together! 🚀
