@@ -1,22 +1,20 @@
-<h1 align="center">Hi 👋, I'm Yash Thakare</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+  <h1 align="center">Hi 👋, I'm Yash Thakare</h1>
+    <h3 align="center">I'm a 3rd-year student at PESMCOE, Pune, driven by a passion for coding and innovation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashthakare93&label=Profile%20views&color=0e75b6&style=flat" alt="yashthakare93" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashthakare93" alt="yashthakare93" /></a> </p>
 
-- 🔭 I’m currently working on [URL-Shortner](https://github.com/yashthakare93/URL-SHORTNER)(Nodejs & Mongo).
+- 🔭Currently, I'm immersed in developing a URL Shortener using Node.js and MongoDB. You can visit the deployed project here **https://url-shortner-zq7h.onrender.com**
 
-- 🌱 I’m currently learning **MEAN STACK**
+- 🌱 Actively learning the intricacies of the MEAN stack to enhance my proficiency in  **MongoDB, Express.js, AngularJS, and Node.js**
 
-- 💬 Ask me about **MONGO,ANGULAR,EXPRESS,NODE JS,TS,JAVA**
+- 💬Feel free to inquire about my experience with **MongoDB, AngularJS, Express.js, Node.js, ejs, TypeScript, and Java.**
 
-- 📫 How to reach me **thakareyash74@gmail.com**
+- 📫 You can reach out to me at **thakareyash74@gmail.com** for any inquiries or collaborations.
 
-- 📄 Know about my experiences :
-  I recently completed an internship at Navodita Infotech as an AngularJS intern in January 2024. During my time there, I had the opportunity to work on impactful    projects that contributed to my growth as a full-stack developer. You can explore some of these projects on my GitHub profile.
-  Prior to my internship at Navodita Infotech, I participated in a virtual internship program at Bharat Intern in web development from September 10, 2023, to         October 10, 2023. This experience further honed my skills and provided me with valuable insights into the web dev.
-  Currently, I am focusing on mastering the MEAN stack (MongoDB, Express.js, AngularJS, and Node.js) to become proficient in both front-end and back-end              development. I am passionate about leveraging these technologies to build robust and innovative web applications, from designing user interfaces to developing      scalable server-side logic. My journey in full-stack development has been exciting so far, and I am eager to continue learning and growing in this dynamic field.
+- 📄 Learn more about my journey :
+ I recently completed an enriching internship at Navodita Infotech, where I served as an AngularJS intern until January 2024. During this period, I worked on impactful projects that significantly contributed to my growth as a developer. You can explore these projects on my GitHub profile. Prior to my role at Navodita Infotech, I participated in a virtual internship program at Bharat Intern, focusing on web development from September 10, 2023, to October 10, 2023. This experience further refined my skill set and provided invaluable insights into the realm of web development. Currently, my focus is on mastering the MEAN stack—MongoDB, Express.js, AngularJS, and Node.js—to proficiently tackle both front-end and back-end development challenges. I am deeply passionate about leveraging these technologies to craft resilient and groundbreaking web applications, from designing intuitive user interfaces to architecting scalable server-side logic. My journey in development has been exhilarating so far, and I am fervently committed to perpetual learning and advancement in this dynamic field.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
