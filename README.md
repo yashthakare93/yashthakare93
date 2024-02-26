@@ -7,7 +7,7 @@
 
 - 🔭Currently, I'm immersed in developing a URL Shortener using Node.js and MongoDB. You can visit the deployed project here **https://url-shortner-zq7h.onrender.com**
 
-- 🌱 Actively learning the intricacies of the MEAN stack to enhance my proficiency in  **MongoDB, Express.js, AngularJS, and Node.js**
+- 🌱 Actively learning the intricacies of the MEAN/MERN stack to enhance my proficiency in  **MongoDB, Express.js, AngularJS, ReactJS and Node.js**
 
 - 💬Feel free to inquire about my experience with **MongoDB, AngularJS, Express.js, Node.js, ejs, TypeScript, and Java.**
 
