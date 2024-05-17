@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashthakare93" alt="yashthakare93" /></a> </p>
 
 - 🔭Recently build a URL Shortener & analytics apllication using Node.js and MongoDB. You can visit the deployed project here **https://url-shortner-zq7h.onrender.com**
+  Repo - **https://github.com/yashthakare93/URL-SHORTNER**
 
 - 🌱 Actively learning the intricacies of the MEAN/MERN stack to enhance my proficiency in  **MongoDB, Express.js, AngularJS, ReactJS and Node.js** and . 
 
@@ -14,7 +15,10 @@
 - 📫 You can reach out to me at **thakareyash74@gmail.com** for any inquiries or collaborations.
 
 - 📄 Learn more about my journey :
- I recently completed an enriching internship at Navodita Infotech, where I served as an AngularJS intern until January 2024. During this period, I worked on impactful projects that significantly contributed to my growth as a developer. You can explore these projects on my GitHub profile. Prior to my role at Navodita Infotech, I participated in a virtual internship program at Bharat Intern, focusing on web development from September 10, 2023, to October 10, 2023. This experience further refined my skill set and provided invaluable insights into the realm of web development. Currently, my focus is on mastering the MEAN stack—MongoDB, Express.js, AngularJS, and Node.js—to proficiently tackle both front-end and back-end development challenges. I am deeply passionate about leveraging these technologies to craft resilient and groundbreaking web applications, from designing intuitive user interfaces to architecting scalable server-side logic. My journey in development has been exhilarating so far, and I am fervently committed to perpetual learning and advancement in this dynamic field.
+ I'm a 3rd-year student at PESMCOE, Pune, driven by a passion for coding and innovation. My latest project is a URL Shortener using Node.js and MongoDB, which you can check out here. I'm actively learning the MERN stack to enhance my skills in MongoDB, Express.js, ReactJS, Node.js, as well as PHP and MySQL. Currently, I am also exploring WordPress plugins and theme development.
+
+A quick learner, adaptable, and eager to collaborate in a fast-paced environment. Committed to continuous learning and growth, with experience contributing to impactful projects at Navodita Infotech and refining skills through a virtual internship at Bharat Intern. I possess a solid understanding of web development fundamentals, including HTML, CSS, JavaScript, and MySQL,
+with a particular emphasis on JavaScript.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
