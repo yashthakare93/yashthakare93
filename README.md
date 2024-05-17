@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashthakare93" alt="yashthakare93" /></a> </p>
 
-- 🔭Currently, I'm immersed in developing a URL Shortener using Node.js and MongoDB. You can visit the deployed project here **https://url-shortner-zq7h.onrender.com**
+- 🔭Recently build a URL Shortener & analytics apllication using Node.js and MongoDB. You can visit the deployed project here **https://url-shortner-zq7h.onrender.com**
 
-- 🌱 Actively learning the intricacies of the MEAN/MERN stack to enhance my proficiency in  **MongoDB, Express.js, AngularJS, ReactJS and Node.js**
+- 🌱 Actively learning the intricacies of the MEAN/MERN stack to enhance my proficiency in  **MongoDB, Express.js, AngularJS, ReactJS and Node.js** and . 
 
-- 💬Feel free to inquire about my experience with **MongoDB, AngularJS, Express.js, Node.js, ejs, TypeScript, and Java.**
+- 💬Feel free to inquire about my experience with **MongoDB, AngularJS, Express.js, Node.js, ejs, PHP, MySQL and Core Java.**
 
 - 📫 You can reach out to me at **thakareyash74@gmail.com** for any inquiries or collaborations.
 
