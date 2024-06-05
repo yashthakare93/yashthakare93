@@ -1,24 +1,27 @@
-  <h1 align="center">Hi 👋, I'm Yash Thakare</h1>
-    <h3 align="center">I'm a 3rd-year student at PESMCOE, Pune, driven by a passion for coding and innovation</h3>
-
+<h1 align="center">Hi 👋, I'm Yash Thakare</h1>
+<h3 align="center">A passionate developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashthakare93&label=Profile%20views&color=0e75b6&style=flat" alt="yashthakare93" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashthakare93" alt="yashthakare93" /></a> </p>
 
-- 🔭Recently build a URL Shortener & analytics apllication using Node.js and MongoDB. You can visit the deployed project here **https://url-shortner-zq7h.onrender.com**
-  Repo - **https://github.com/yashthakare93/URL-SHORTNER**
+- 🔭 I’m currently learning on **MERN Stack and System Design**
 
-- 🌱 Actively learning the intricacies of the MEAN/MERN stack to enhance my proficiency in  **MongoDB, Express.js, AngularJS, ReactJS and Node.js** and . 
+- 👨‍💻 All of my projects are available at [https://yashthakare93.github.io](https://yashthakare93.github.io)
 
-- 💬Feel free to inquire about my experience with **MongoDB, AngularJS, Express.js, Node.js, ejs, PHP, MySQL and Core Java.**
+- 📝 I regularly write articles on [https://yashthakare93.github.io](https://yashthakare93.github.io/blogs)
 
-- 📫 You can reach out to me at **thakareyash74@gmail.com** for any inquiries or collaborations.
+- 💬 Ask me about **Node.js, React, Javascript, Core Java, MongoDB, System Design Etc.**
 
-- 📄 Learn more about my journey :
- I'm a 3rd-year student at PESMCOE, Pune, driven by a passion for coding and innovation. My latest project is a URL Shortener using Node.js and MongoDB, which you can check out here. I'm actively learning the MERN stack to enhance my skills in MongoDB, Express.js, ReactJS, Node.js, as well as PHP and MySQL. Currently, I am also exploring WordPress plugins and theme development.
+- 📫 How to reach me **yashthakare93.github.io**
 
-A quick learner, adaptable, and eager to collaborate in a fast-paced environment. Committed to continuous learning and growth, with experience contributing to impactful projects at Navodita Infotech and refining skills through a virtual internship at Bharat Intern. I possess a solid understanding of web development fundamentals, including HTML, CSS, JavaScript, and MySQL,
-with a particular emphasis on JavaScript.
+- ✉️ Email: thakareyash74@gmail.com
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+- [Insights on System Design](https://yashthakare93.github.io/blogs.html)
+- [Exploring React and Other Development Topics](https://yashthakare93.github.io/blogs.html)
+- [Exploring Data Structure and Algorithm](https://yashthakare93.github.io/blogs.html)
+<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
