@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashthakare93&label=Profile%20views&color=0e75b6&style=flat" alt="yashthakare93" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashthakare93" alt="yashthakare93" /></a> </p>
 
-- 🔭 I’m currently learning on **MERN Stack and System Design**
+- 🔭 I’m currently learning  **MERN Stack and System Design**
 
 - 👨‍💻 All of my projects are available at [https://yashthakare93.github.io](https://yashthakare93.github.io)
 
