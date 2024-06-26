@@ -5,6 +5,10 @@
 
 - 🔭 I’m currently learning  **MERN Stack and System Design**
 
+- Checkout my latest project **Quick Cart - Ecommerce Website**
+  - Tech - React , Tailwind
+  - Repo - [https://github.com/yashthakare93/Quick_Cart](https://github.com/yashthakare93/Quick_Cart)
+
 - 👨‍💻 All of my projects are available at [https://yashthakare93.github.io](https://yashthakare93.github.io)
 
 - 📝 I regularly write articles on [https://yashthakare93.github.io](https://yashthakare93.github.io/blogs)
