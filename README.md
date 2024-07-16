@@ -3,19 +3,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashthakare93&label=Profile%20views&color=0e75b6&style=flat" alt="yashthakare93" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashthakare93" alt="yashthakare93" /></a> </p>
 
-- 🔭 I’m currently learning  **MERN Stack and System Design**
+- 🔭 I’m currently learning  **MERN Stack and Next.js**
 
-- Checkout my latest project **Quick Cart - Ecommerce Website**
-  - Tech - React , Tailwind
-  - Repo - [https://github.com/yashthakare93/Quick_Cart](https://github.com/yashthakare93/Quick_Cart)
-
-- 👨‍💻 All of my projects are available at [https://yashthakare93.github.io](https://yashthakare93.github.io)
+- 👨‍💻 All of my projects are available at [https://yashthakare.vercel.app](https://yashthakare.vercel.app)
 
 - 📝 I regularly write articles on [https://yashthakare93.github.io](https://yashthakare93.github.io/blogs)
 
-- 💬 Ask me about **Node.js, React, Javascript, Core Java, MongoDB, System Design Etc.**
-
-- 📫 How to reach me **yashthakare93.github.io**
+- 💬 Ask me about **Node.js, React, Javascript, Core Java, MongoDB, MySQL.**
 
 - ✉️ Email: thakareyash74@gmail.com
 
