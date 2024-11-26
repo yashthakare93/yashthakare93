@@ -11,9 +11,6 @@
 
 - ✉️ Email: thakareyash74@gmail.com
 
-**Leveling Up My Skills!**
-
-I'm excited to announce that I'm taking on the #CrackYourInternship and #CrackYourPlacement Challenge! This intensive 45-day program will equip me to conquer over 280 coding problems, ensuring I'm fully prepared for upcoming internship and placement opportunities. Stay tuned for updates on my progress and learnings!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
