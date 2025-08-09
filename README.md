@@ -57,6 +57,7 @@ I use **Tailwind CSS**, **ShadCN UI**, and **Framer Motion** to craft clean, res
 ## 🔧 Currently Building: **PrepGenius**
 
 > 💡 *Building things that solve real problems — one line of code at a time.*
+>     *Check out - https://prep-genius-ai.vercel.app/*
 
 ---
 
